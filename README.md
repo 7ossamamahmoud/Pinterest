@@ -1,1 +1,1 @@
-### Pinterest Clone is a Window App. Form done with C# 
+### Pinterest Clone is a Windows Form App. done with C# 
